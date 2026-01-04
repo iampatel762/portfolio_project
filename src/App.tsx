@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Github, Linkedin, Facebook, Instagram, Twitter, Mail, Phone, MapPin, Code, GraduationCap, Download, ChevronRight, Sparkles, Star } from 'lucide-react';
+import  { useState, useEffect } from 'react';
+import { Github, Linkedin, Facebook, Instagram, Twitter, Mail, Phone, MapPin, Code, GraduationCap, Download, ChevronRight, Star } from 'lucide-react';
 import profile from "./../public/IMG20250613125116.jpg"
 
 export default function Portfolio() {
