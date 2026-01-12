@@ -441,7 +441,7 @@ export default function Portfolio() {
             <a href="https://www.x.com/surajbabupatel2" className="w-14 h-14 flex items-center justify-center bg-white/5 hover:bg-cyan-500/20 border border-white/10 hover:border-cyan-500/50 rounded-full transition-all transform hover:scale-110">
               <Twitter size={24} />
             </a>
-            <a href="#" className="w-14 h-14 flex items-center justify-center bg-white/5 hover:bg-cyan-500/20 border border-white/10 hover:border-cyan-500/50 rounded-full transition-all transform hover:scale-110">
+            <a href="https://www.instagram.com/_iampatel762" className="w-14 h-14 flex items-center justify-center bg-white/5 hover:bg-cyan-500/20 border border-white/10 hover:border-cyan-500/50 rounded-full transition-all transform hover:scale-110">
               <Instagram size={24} />
             </a>
             <a href="https://www.facebook.com/iampatel762" className="w-14 h-14 flex items-center justify-center bg-white/5 hover:bg-cyan-500/20 border border-white/10 hover:border-cyan-500/50 rounded-full transition-all transform hover:scale-110">
