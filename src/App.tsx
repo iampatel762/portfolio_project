@@ -148,7 +148,7 @@ export default function Portfolio() {
                 </button>
                 <button className="px-8 py-3.5 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full font-semibold transition-all flex items-center gap-2">
                   <Download size={20} />
-                  <a href='https://drive.google.com/file/d/13vIFXWFjN8aDd84f4DOWzBL8uJmd4qOM/view?usp=drivesdk'>
+                  <a href='https://drive.google.com/file/d/14Krjq6Ob3BcdRPcEA71t5f2UQE790kOv/view?usp=sharing'>
                     Download CV
                   </a>
                 </button>
