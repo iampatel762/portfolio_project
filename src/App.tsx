@@ -223,7 +223,7 @@ export default function Portfolio() {
                 problem-solving abilities with a passion for writing clean, maintainable code.
               </p>
 
-              <div className="grid grid-cols-2 gap-6 pt-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-6">
                 <div className="space-y-2">
                   <div className="flex items-center gap-2 text-gray-400">
                     <Mail size={18} className="text-cyan-400" />
